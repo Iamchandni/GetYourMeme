@@ -6,7 +6,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <Header class="italic hover:not-italic"/>
+      <Header/>
       <Meme/>
     </div>
   );
